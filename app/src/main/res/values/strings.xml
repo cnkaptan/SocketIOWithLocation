@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocketIOWithLocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="connected">CONNECTED</string>
+    <string name="disconnected">DISCONNECTED</string>
+    <string name="error">ERROR</string>
+</resources>

@@ -1,0 +1,10 @@
+{
+"data": {
+"car_id": 123,
+"driver_id":456,
+"order": null,
+"status": "READY",
+"uid": "car_123"
+},
+"status": true
+}

@@ -1,0 +1,7 @@
+{
+"status": false,
+"data": {
+"code": "SYSTEM_001",
+"message": "Check login credentials\nUsername: test\npassword: test123\ncard number: 000end"
+}
+}
